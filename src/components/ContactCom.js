@@ -17,7 +17,7 @@ let template = `
 		<div className="contact_container">
 		  <div className="contact-form">
 		    <form
-		      action=""
+		      action="https://formspree.io/f/mjvqygzp"
 		      method="POST"
 		      className="contact-inputs">
 		      <input
